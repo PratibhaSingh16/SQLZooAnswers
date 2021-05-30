@@ -1,5 +1,5 @@
 # SQLZooAnswers
-This repository contains answers of all the SQL queries from https://sqlzoo.net/wiki/SELECT_from_Nobel_Tutorial
+# This repository contains answers of all the SQL queries from https://sqlzoo.net/wiki/SELECT_from_Nobel_Tutorial
 
 
 ``1. Winners from 1950``
